@@ -20,7 +20,7 @@ Tutorial on how to use app- https://drive.google.com/file/d/1JXSIVq1cfyFk31r0xti
 After installation is complete, run the following code: ‘node index.js’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘Generate logo.svg’, and you should see your logo.svg file.
 
 ## [Tests](#table-of-contents)
-To test this app, open up the file in VS Code. Open the terminal, run ' jest lib/shapes.test.js' 
+To test this app, open up the file in VS Code. Open the terminal, run 'npm run test' 
 ## [Questions](#table-of-contents)
 Please contact me using the following links:
 [GitHub](https://github.com/radhikabandi)
